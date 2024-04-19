@@ -1,0 +1,15 @@
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfo.cs
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\Task_1.sourcelink.json
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\bin\Debug\net8.0\Task_1.exe
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\bin\Debug\net8.0\Task_1.deps.json
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\bin\Debug\net8.0\Task_1.runtimeconfig.json
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\bin\Debug\net8.0\Task_1.dll
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\bin\Debug\net8.0\Task_1.pdb
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\Task_1.dll
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\refint\Task_1.dll
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\Task_1.pdb
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
+C:\Users\rafkh\Desktop\C#Final_Tasks\Task_1\obj\Debug\net8.0\ref\Task_1.dll
